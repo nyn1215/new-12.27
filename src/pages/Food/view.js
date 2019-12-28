@@ -124,11 +124,6 @@ export default class view extends Component {
                     <i className='iconfont icon-wode'></i>
                 </header>
                 <section>
-                <div className="mark" style={{ display:status1 ? 'block' : 'none'}} onClick={(e)=>{
-                    
-               }}>
-                    置顶
-                </div>
                     <img src="./img/file.png" alt=""/>
                     <ul>
                     {
